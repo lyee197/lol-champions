@@ -20,4 +20,4 @@ const leagueSchema = new mongoose.Schema(
 	}
 )
 
-module.exports = mongoose.model('leagueChamps', leagueSchema)
+module.exports = mongoose.model('LeagueChamps', leagueSchema)
